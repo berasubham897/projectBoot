@@ -59,10 +59,10 @@
                         Search
                     </button>
                 </form>
-                <button class="btn btn-secondary btn-lg fw-bold ms-2 me-1" type="submit">
+                <button class="btn btn-secondary btn-lg fw-bold ms-2 me-1" data-bs-toggle="modal" data-bs-target="#joinModal" type="submit">
                     Join IEEE
                 </button>
-                <button class="btn btn-primary btn-lg fw-bold ms-1 me-2" type="submit">
+                <button class="btn btn-primary btn-lg fw-bold ms-1 me-2" data-bs-toggle="modal" data-bs-target="#signModal" type="submit">
                     Sign in
                 </button>
             </div>
